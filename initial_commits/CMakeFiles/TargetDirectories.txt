@@ -1,0 +1,3 @@
+/home/lc/lc/bito_sample/CMakeFiles/rebuild_cache.dir
+/home/lc/lc/bito_sample/CMakeFiles/edit_cache.dir
+/home/lc/lc/bito_sample/CMakeFiles/RectangleDetector.dir

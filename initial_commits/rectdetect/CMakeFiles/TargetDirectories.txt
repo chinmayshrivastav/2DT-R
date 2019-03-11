@@ -1,0 +1,3 @@
+/home/lc/lc/rectdetect/CMakeFiles/edit_cache.dir
+/home/lc/lc/rectdetect/CMakeFiles/rebuild_cache.dir
+/home/lc/lc/rectdetect/CMakeFiles/rectdetect.dir

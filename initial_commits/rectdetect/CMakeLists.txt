@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( rectdetect )
+find_package( OpenCV REQUIRED )
+add_executable( rectdetect rectdetect.cpp )
+target_link_libraries( rectdetect ${OpenCV_LIBS} )
