@@ -1,2 +1,2 @@
 # 2DT-R
-Targetted to implement a rectangular box detector to capture a human standing in a corridor, also calculating distances to his right and his left and then comparing those values.
+Targetted to implement an April tag detector, by capturing a video stream of tags from mobile and then performing tag detection. Done in ROS and OpenCV
